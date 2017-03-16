@@ -1,4 +1,6 @@
-import model.A;
+package runnable;
+
+import runnable.model.A;
 
 /**
  * Created by Javier on 3/15/2017.

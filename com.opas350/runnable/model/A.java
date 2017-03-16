@@ -1,4 +1,4 @@
-package model;
+package runnable.model;
 
 /**
  * Created by Javier on 3/15/2017.
