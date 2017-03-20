@@ -1,6 +1,7 @@
 package runnable;
 
 import runnable.model.LongWrapper;
+import runnable.model.NewLongWrapper;
 
 /**
  * Created by javier.reyes.valdez on 3/15/2017.
